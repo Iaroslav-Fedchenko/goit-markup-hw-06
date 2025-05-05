@@ -606,7 +606,7 @@ body {
   border: 1px solid #404bbf;
 } */
 
-.icon-close {
+/* .icon-close {
   color: #2e2f42;
   align-items: center;
   justify-content: center;
@@ -616,9 +616,9 @@ body {
   width: 408px;
   transform: translate(-50%, -50%);
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
+} */
 
-.backdrop {
+/* .backdrop {
   position: fixed;
   top: 0;
   left: 0;
@@ -630,9 +630,9 @@ body {
   pointer-events: none;
   transition: opacity 250ms cubic-bezier(0.4, 0, 0.2, 1),
     visibility 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
+} */
 
-.backdrop.is-open {
+/* .backdrop.is-open {
   opacity: 1;
   visibility: visible;
   pointer-events: auto;
@@ -728,7 +728,7 @@ body {
   position: absolute;
   left: 16px;
   /* top: 11px; */
-}
+} */
 
 /* .custom-checkbox .svg-icon {
   fill: #f4f4fd;
