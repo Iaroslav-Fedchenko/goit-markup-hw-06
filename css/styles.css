@@ -608,7 +608,7 @@ img {
 .section-app {
   background-color: #f4f4fd;
   padding-top:  96px;
-  padding-bottom: 0;
+  padding-bottom: 96px;
 }
 
 .title {
